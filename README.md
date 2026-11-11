@@ -33,4 +33,4 @@ Proyek ini berfokus pada perancangan fungsi utamanya, sebagai dudukan mata pahat
 * 📦 [Unduh Source File AutoCAD (.rar)](nama-file-rar-2.rar)
 
 ---
-*Dibuat untuk melengkapi pendaftaran IRC Robotic Club.*
+
