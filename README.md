@@ -22,15 +22,15 @@ Proyek ini berfokus pada perancangan fungsi utamanya, sebagai dudukan mata pahat
 
 ---
 
-### 2. [Nama Proyek Keduamu - Jika Ada]
-[Deskripsi singkat mekanisme proyek kedua].
+### 2. Crank shaft
+Proyek ini berfokus pada pemodelan 3D crank shaft dengan menggunakan software solidworks.
 
 **Tampilan Desain:**
-![Screenshot Desain 2](nama-file-screenshot-2.png)
+![Screenshot Desain](crank%20shaft.png)
 
 **Detail File:**
-* 📄 [Lihat File PDF](nama-file-pdf-2.pdf)
-* 📦 [Unduh Source File AutoCAD (.rar)](nama-file-rar-2.rar)
+* 📄 [Lihat File PDF](crank%20shaft.pdf)
+* 📦 [Unduh Source File crank shaft (.rar)](crank%20shaft.rar)
 
 ---
 
